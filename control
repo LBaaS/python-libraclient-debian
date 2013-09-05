@@ -1,0 +1,12 @@
+Source: python-libraclient
+Maintainer: Endre Karlson <endre.karlson@hp.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7.4.3)
+Standards-Version: 3.9.1
+
+Package: python-python-libraclient
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: Python client for libra LBaaS solution
+
