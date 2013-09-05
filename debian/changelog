@@ -1,4 +1,4 @@
-python-libraclient (1.2.6~pre-1) precise; urgency=high
+python-libraclient (1.2.5.1-1) precise; urgency=high
 
   * Nova client version bump
 
