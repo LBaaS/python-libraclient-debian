@@ -1,8 +1,8 @@
-python-libraclient (1.2.5-2) precise; urgency=high
+python-libraclient (1.2.6~pre-1) precise; urgency=high
 
   * Nova client version bump
 
- -- Endre Karlson <endre.karlson@hp.com>  Thu, 05 Sep 2013 19:03:54 +0200
+ -- Endre Karlson <endre.karlson@hp.com>  Thu, 05 Sep 2013 21:55:00 +0200
 
 python-libraclient (1.2.5-1) precise; urgency=high
 
