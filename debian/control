@@ -12,7 +12,7 @@ Package: python-libraclient
 Architecture: all
 Depends:
   python-novaclient (>=2.14.1),
-  python-novaclient (<2.14.2),
+  python-novaclient (<<2.14.2),
   ${misc:Depends},
   ${python:Depends}
 Description: Python client for libra LBaaS solution
